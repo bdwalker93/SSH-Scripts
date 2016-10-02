@@ -2,4 +2,4 @@
 
 echo "Logging into UCI openlab"
 
-ssh walkerbd@openlab.ics.uci.edu
+ssh username@openlab.ics.uci.edu

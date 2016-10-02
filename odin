@@ -2,4 +2,4 @@
 
 echo "Connecting to UCI Odin"
 
-ssh walkerbd@odin.ics.uci.edu
+ssh username@odin.ics.uci.edu
