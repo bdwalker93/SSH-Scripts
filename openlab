@@ -1,5 +1,0 @@
-#!/bin/bash
-
-echo "Logging into UCI openlab"
-
-ssh walkerbd@openlab.ics.uci.edu
